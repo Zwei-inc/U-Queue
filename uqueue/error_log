@@ -1,0 +1,12 @@
+[12-Mar-2020 14:06:35 UTC] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /home/mrrobite/SAD/application/config/constants.php on line 91
+[12-Mar-2020 14:07:16 UTC] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /home/mrrobite/SAD/application/config/constants.php on line 91
+[12-Mar-2020 20:07:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/mrrobite/SAD/application/controllers/User.php on line 15
+[12-Mar-2020 20:08:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/mrrobite/SAD/application/controllers/User.php on line 15
+[13-Mar-2020 08:14:42 Asia/Dhaka] PHP Fatal error:  Call to a member function get_service() on a non-object in /home/mrrobite/SAD/application/controllers/User.php on line 26
+[13-Mar-2020 21:16:03 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mrrobite/SAD/system/core/Exceptions.php on line 268
+[13-Mar-2020 21:20:38 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mrrobite/SAD/application/controllers/User.php on line 63
+[13-Mar-2020 21:23:00 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mrrobite/SAD/application/controllers/User.php on line 62
+[13-Mar-2020 21:24:23 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mrrobite/SAD/application/controllers/User.php on line 63
+[13-Mar-2020 21:51:44 Asia/Dhaka] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::distict() in /home/mrrobite/SAD/application/models/User_model.php on line 88
+[14-Mar-2020 20:53:05 Asia/Dhaka] PHP Fatal error:  Call to a member function format() on a non-object in /home/mrrobite/SAD/application/controllers/User.php on line 68
+[14-Mar-2020 22:39:48 Asia/Dhaka] PHP Fatal error:  Call to undefined method CI_Session::destroy() in /home/mrrobite/SAD/application/controllers/User.php on line 158
